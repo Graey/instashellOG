@@ -1,7 +1,7 @@
 #!/bin/bash
 # Coded by: github.com/thelinuxchoice
-# Instagram: @linux_choice
-# Re uloaded by @Graey due to author removed source and @Graey maintaining.
+
+# Re uploaded by @Graey due to author removed source and @Graey maintaining.
 
 trap 'store;exit 1' 2
 string4=$(openssl rand -hex 32 | cut -c 1-4)
@@ -46,7 +46,7 @@ banner() {
 
 
 printf "\n"
-printf "\e[1;77m\e[45m  InstaShellOG - Instagram Brute Forcer  - EditAuthor:    \e[0m\n"
+printf "\e[1;77m\e[45m  InstaShellOG - Instagram Brute Forcer  - Edit Author: @Graey   \e[0m\n"
 
 }
 
