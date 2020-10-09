@@ -46,7 +46,7 @@ banner() {
 
 
 printf "\n"
-printf "\e[1;77m\e[45m  InstaShellOG - Instagram Brute Forcer  - Edit Author: @Graey   \e[0m\n"
+printf "\e[1;77m\e[45m  InstaShellOG - Instagram Brute Forcer  - Edit Author: @Graey  @ItSsHaDoW \e[0m\n"
 
 }
 
